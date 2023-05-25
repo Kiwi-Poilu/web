@@ -1,0 +1,19 @@
+h1, h2
+{
+    color:goldenrod;
+}
+
+p
+{
+    color:red;
+}
+
+.lorem
+{
+	color:blueviolet
+}
+
+.big-text {
+	font-size: 5;
+	color: rgb(255, 0, 0);
+}

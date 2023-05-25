@@ -1,0 +1,23 @@
+body {
+background-size: cover;
+background-image: url('img/game.png');
+margin: 0;
+background-color: black;
+color: white
+}
+
+h1 {
+font-size: 3.5em;
+font-family: 'Montserrat', sans-serif;
+color: #A5B4FC
+}
+
+p {
+font-size: 1.1em;
+font-family: 'Manrope', sans-serif;
+}
+
+ol {
+font-size: 1em;
+font-family: 'Manrope', sans-serif;
+}
